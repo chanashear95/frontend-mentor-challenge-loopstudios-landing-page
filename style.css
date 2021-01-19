@@ -180,6 +180,7 @@ section{
 .creation{
     position: relative;
     cursor: pointer;
+    height: 100%;
 }
 
 .creation img{
